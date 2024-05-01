@@ -3,5 +3,5 @@ Esse software foi desenvolvido para a terceira avaliação da disciplina de Prá
 
 # Links:
 Abaixo você pode acessar a demo online do projeto ou o código fonte no github.<br/>
-[Acessar](#demo)<br/>
+[Acessar](../src/index.html)<br/>
 [Repositório no github](https://github.com/thiagocoelhoo/sorting-algorithms)
