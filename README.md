@@ -1,4 +1,4 @@
-# Software de vizualiação de algoritmos de ordenação
+# Software de visualização de algoritmos de ordenação
 Esse software foi desenvolvido para a terceira avaliação da disciplina de Prática de Ensino III.
 
 ### Objetivo 📌:
